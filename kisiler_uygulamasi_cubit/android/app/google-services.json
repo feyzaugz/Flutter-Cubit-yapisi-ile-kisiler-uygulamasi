@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506847549601",
+    "firebase_url": "https://cubitkisilerapp-default-rtdb.firebaseio.com",
+    "project_id": "cubitkisilerapp",
+    "storage_bucket": "cubitkisilerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506847549601:android:bb6f72425eb0a3537438e0",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi_cubit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506847549601-obcm6pusn9pr9634elfs67bvjinp49lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK50q6WnqFX_O3R2XgwK-5hcy0TIJXLFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506847549601-obcm6pusn9pr9634elfs67bvjinp49lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
